@@ -1,5 +1,5 @@
 {
-    "name": "waarneembemiddeling/php-pdfimages",
+    "name": "rudivdme/php-pdfimages",
     "require": {
         "alchemy/binary-driver": "~5.0"
     },
